@@ -1,0 +1,24 @@
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\App.g.i.cs
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.i.cs
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+c:\users\gareth\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+D:\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+D:\PhoneApp2\PhoneApp2\obj\Debug\App.g.i.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.i.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+D:\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
